@@ -1,6 +1,8 @@
 # RetinexCFNet
 
-RetinexCFNet for Lowlight Image Enhancement or Image Dehazing.
+RetinexCFNet for Lowlight Image Enhancement or Image Dehazing. 
+
+Our model is implemented based on PaddlePaddle. Here we provide the converted ONNX model and the corresponding prediction code.
 
 ## Requirements
 
