@@ -30,4 +30,3 @@ For image dehazing:
 python infer_demo_onnx.py --model_path weights/RetinexCFNet_dehaze.onnx --image_path dehaze_images/test_data/ --save_dir img_prediction/result_RetinexCFNet_dehaze
 ```
 
-Note: the predi
