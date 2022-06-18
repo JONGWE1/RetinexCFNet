@@ -1,5 +1,7 @@
 # RetinexCFNet
 
+RetinexCFNet for Lowlight Image Enhancement or Image Dehazing.
+
 ## Requirements
 
 ```shell
