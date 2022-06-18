@@ -46,10 +46,10 @@ You can also download the prediction results of O-HAZE dataset, I-HAZE dataset a
 
 Quantitative comparison on LOL dataset about MSE, PSNR, SSIM, LPIPS and DISTS. The highlighted in bold represents the best results.
 
-![image-20220618232530140](/home/yzw/.config/Typora/typora-user-images/image-20220618232530140.png)
+![image-20220618232530140](docs/LOL_results.png)
 
 ***Image Dehazing***
 
 Quantitative comparison on O-HAZE dataset, I-HAZE dataset and NH-HAZE dataset about PSNR and SSIM. The highlighted in bold represents the best results.
 
-![image-20220618233706718](/home/yzw/.config/Typora/typora-user-images/image-20220618233706718.png)
+![image-20220618233706718](docs/DEHAZE_results.png)
